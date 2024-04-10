@@ -4,12 +4,8 @@
 
 
 
-                                  <h1 align="center"> mixium </h1> 
-                                                      powerfull stealer made in pure python
-													  
-													  
-													  
-													  
+                                
+                                                    				  
 													  
 													  
 													  
