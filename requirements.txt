@@ -1,0 +1,7 @@
+requests
+pycryptodome
+customtkinter
+packaging
+tk
+Crypto
+cryptography
